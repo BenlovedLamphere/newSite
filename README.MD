@@ -1,3 +1,14 @@
+
+一个基于react-redux框架和git issues的BLOG，
+
+demo 见 www.xbenben.cn
+
+
+框架信息如下：
+
+
+
+
 # react-family
 
 [从零搭建react-family框架教程](https://github.com/brickspert/blog/issues/1)（教程会不断更新）
