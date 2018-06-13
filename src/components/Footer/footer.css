@@ -1,0 +1,10 @@
+.afooter {
+	width: 100%;
+	height: 80px;
+	background: #000;
+	color: #434343;
+	font-size: 14px;
+	display: flex;
+	justify-content:center;
+	align-items:center;
+}
